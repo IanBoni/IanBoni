@@ -1,5 +1,5 @@
 - 🌱 heya, my name's Ian Boni!
-- 🥸 for things related to me and what I do, check out my website at ianboni.neocities.org :]
+- 🥸 for things related to me and what I do, check out my website at https://ianboni.neocities.org :]
 - 📫 to get in contact with me, I have a business email at ianpboni@gmail.com
 
 <!---
