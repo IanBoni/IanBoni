@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @IanBoni
-- 👀 I’m interested in pretty much everything (except furries, f*** that s***)
-- 🌱 I’m currently learning how to not be burnt out by gamedev and other pressurizing life choices
-- I’m looking foward to collaborate in a game if you want 👀
-- 📫 Here's how to reach me: ianpinheiroboni@gmail.com
+🌱 heya, my name's Ian Boni!
+🥸 for things related to me and what I do, check out my website at ianboni.neocities.org :]
+📫 to get in contact with me, I have a business email at ianpboni@gmail.com
 
 <!---
 IanBoni/IanBoni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
